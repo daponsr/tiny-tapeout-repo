@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     354858054593504257       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     422962842469118977       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "TestDaniel"      # Project title
   author:       "daniel"      # Your name
   discord:      "escrap321"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
@@ -21,8 +21,8 @@ pinout:
   ui[3]: "IN3"
   ui[4]: "IN4"
   ui[5]: "IN5"
-  ui[6]: ""
-  ui[7]: ""
+  ui[6]: "IN6"
+  ui[7]: "IN7"
 
   # Outputs
   uo[0]: "OUT0"
@@ -30,9 +30,9 @@ pinout:
   uo[2]: "OUT2"
   uo[3]: "OUT3"
   uo[4]: "OUT4"
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[5]: "OUT5"
+  uo[6]: "OUT6"
+  uo[7]: "OUT7"
 
   # Bidirectional pins
   uio[0]: ""
